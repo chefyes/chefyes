@@ -5,6 +5,5 @@
   3. Volleyball  
   4. Cooking  
   5. Coding  
-- Right now, I’m working with Bluetooth Firmware
-
+- I am currently a full time student at UC San Diego and I work with bluetooth firmware  
 
